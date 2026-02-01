@@ -72,6 +72,20 @@ My mission is to design scalable solutions, empower communities, and embed recog
 </p>
 
 ---
+---
+
+## 🎉 Fun & Interactive  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue" alt="Profile Views Counter"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen"/>
+  <img src="https://img.shields.io/badge/Passion-Tech%20Strategy-orange"/>
+  <img src="https://img.shields.io/badge/Role-Operations%20Manager-blueviolet"/>
+</p>
+
+---
 
 ### ✨ Motto  
 > *“Data builds insight, strategy drives impact, and technology transforms communities.”*  
+
+
